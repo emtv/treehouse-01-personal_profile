@@ -8,4 +8,4 @@ I'm add a simple spinner load for simulate a charge from some server. For this u
 
 ### Preview for the website
 
-![ScreenCapture](images/screencapture.png)
+![ScreenCapture](https://drive.google.com/file/d/1F9LtU-H5ikOphDYoUOgKRyZr7t_pv-Ev/view?usp=sharing)
