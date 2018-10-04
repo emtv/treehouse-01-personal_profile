@@ -1,4 +1,4 @@
-# Peronsal Profile Project
+# Personal Profile Project
 
 Simple page about personal profile
 
